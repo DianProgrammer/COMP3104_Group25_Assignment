@@ -1,0 +1,9 @@
+DevOps and Software Development
+
+In COMP3104, we learn about DevOps practices and how they support software development.
+
+DevOps focuses on collaboration, automation, and continuous improvement throughout the development process.
+
+Using Git and GitHub allows developers to track changes, manage branches, and collaborate on projects.
+
+I believe these tools are important because they help teams organize their work and reduce errors during development.
