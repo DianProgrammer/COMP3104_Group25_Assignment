@@ -100,3 +100,13 @@ The `git branch -a` command shows local and remote branches, while `git status` 
 To keep a working branch updated, I can fetch the latest changes from GitHub and merge updates from the main branch when needed.
 
 This helps reduce potential conflicts and keeps the development workflow organized.
+
+## Merge Conflict Resolution
+
+Merge conflicts can occur when two branches modify the same part of a file.
+
+When a conflict happens, I review the conflicting changes, decide which content should be kept, and remove the conflict markers before completing the merge.
+
+After resolving a conflict, I check the affected files and run the necessary validation steps to confirm that the final version is correct.
+
+For this assignment, I will check both simulated branches before merging them into the master branch. Any conflicts encountered will be resolved and documented.
