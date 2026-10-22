@@ -72,3 +72,11 @@ It checks out the repository and executes basic commands to verify that the CI p
 ## Learning Outcomes
 
 Through this assignment, I am applying Git and GitHub concepts, maintaining meaningful commit history, working with separate branches, and understanding how CI/CD supports collaborative software development.
+
+### Monitoring CI Pipeline
+
+The CI pipeline is monitored through the Actions tab in GitHub.
+
+Each workflow run shows whether the automated checks have passed or failed. A successful run confirms that the configured workflow completed its steps.
+
+If a workflow fails, I can review the job logs to identify the problem, correct the configuration, and push the updated changes to trigger another run.
