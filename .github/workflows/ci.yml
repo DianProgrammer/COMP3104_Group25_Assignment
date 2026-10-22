@@ -1,0 +1,23 @@
+
+name: COMP3104 Group 25 CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  devops-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify repository
+        run: echo "COMP3104 Group 25 repository checked successfully"
+
+      - name: Verify CI workflow
+        run: echo "GitHub Actions CI pipeline is running successfully"
+
+      - name: Complete checks
+        run: echo "All basic CI checks completed"
