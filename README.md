@@ -90,3 +90,13 @@ Each branch is used to organize changes related to its responsibilities. After c
 Before merging a pull request, I will review the changed files, check the commit history, and confirm that the GitHub Actions workflow has completed successfully.
 
 This process helps demonstrate how code review and branch management can support a more organized development workflow.
+
+## Branch Management and Synchronization
+
+Before starting new work, I use Git commands to check the active branch and review the repository status.
+
+The `git branch -a` command shows local and remote branches, while `git status` helps identify uncommitted changes.
+
+To keep a working branch updated, I can fetch the latest changes from GitHub and merge updates from the main branch when needed.
+
+This helps reduce potential conflicts and keeps the development workflow organized.
