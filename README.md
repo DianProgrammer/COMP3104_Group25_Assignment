@@ -45,15 +45,21 @@ Changes are committed locally, pushed to GitHub, reviewed through pull requests,
 
 Clone the repository:
 
+```bash
 git clone https://github.com/DianProgrammer/COMP3104_Group25_Assignment.git
+```
 
 Navigate to the project directory:
 
+```bash
 cd COMP3104_Group25_Assignment
+```
 
 View available branches:
 
+```bash
 git branch -a
+```
 
 ## CI/CD Integration
 
