@@ -11,3 +11,11 @@ I believe these tools are important because they help teams organize their work 
 One of the most useful concepts I have learned in DevOps is the importance of version control. Working with separate branches allows developers to make changes without directly affecting the main project.
 
 Pull requests help teams review changes before merging them. This makes collaboration more organized and reduces the risk of introducing errors.
+
+Practical Example of Git Workflow
+
+In a typical development workflow, I can create a separate branch to work on changes without affecting the main branch.
+
+After making changes, I use Git commands to stage and commit my work. I can then push the branch to GitHub and create a pull request to review and merge the changes.
+
+This workflow helps keep the project history organized and makes it easier to track contributions.
