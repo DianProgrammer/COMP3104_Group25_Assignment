@@ -7,3 +7,7 @@ DevOps focuses on collaboration, automation, and continuous improvement througho
 Using Git and GitHub allows developers to track changes, manage branches, and collaborate on projects.
 
 I believe these tools are important because they help teams organize their work and reduce errors during development.
+
+One of the most useful concepts I have learned in DevOps is the importance of version control. Working with separate branches allows developers to make changes without directly affecting the main project.
+
+Pull requests help teams review changes before merging them. This makes collaboration more organized and reduces the risk of introducing errors.
