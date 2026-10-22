@@ -80,3 +80,13 @@ The CI pipeline is monitored through the Actions tab in GitHub.
 Each workflow run shows whether the automated checks have passed or failed. A successful run confirms that the configured workflow completed its steps.
 
 If a workflow fails, I can review the job logs to identify the problem, correct the configuration, and push the updated changes to trigger another run.
+
+## Pull Request and Review Process
+
+For this assignment, I am using separate branches to simulate the Team Lead and Developer roles, as approved by Professor Pritesh Patel.
+
+Each branch is used to organize changes related to its responsibilities. After completing the required work, the changes are pushed to GitHub and submitted through pull requests.
+
+Before merging a pull request, I will review the changed files, check the commit history, and confirm that the GitHub Actions workflow has completed successfully.
+
+This process helps demonstrate how code review and branch management can support a more organized development workflow.
