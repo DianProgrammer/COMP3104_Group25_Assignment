@@ -1,0 +1,9 @@
+The Importance of DevOps in the SDLC
+
+The Software Development Life Cycle (SDLC) includes different stages such as planning, development, testing, deployment, and maintenance.
+
+DevOps improves this process by encouraging communication between development and operations teams.
+
+Continuous Integration and Continuous Deployment (CI/CD) help automate testing and deployment activities.
+
+In my opinion, DevOps is important because it makes software development more organized, efficient, and reliable.
