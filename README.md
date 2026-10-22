@@ -110,3 +110,17 @@ When a conflict happens, I review the conflicting changes, decide which content 
 After resolving a conflict, I check the affected files and run the necessary validation steps to confirm that the final version is correct.
 
 For this assignment, I will check both simulated branches before merging them into the master branch. Any conflicts encountered will be resolved and documented.
+
+## Final Verification Checklist
+
+Before submitting this assignment, I will verify that:
+
+- The required text files are present in the repository.
+- Both simulated roles have a documented commit history.
+- All changes have been pushed to GitHub.
+- GitHub Actions workflows have completed successfully.
+- Both branches have been reviewed and merged into the master branch.
+- The README and pull request template are complete.
+- The final submission includes the GitHub repository link and the required screenshots.
+
+This checklist helps me make sure that the repository and documentation are complete before the final submission.
