@@ -13,3 +13,11 @@ Another benefit of DevOps is that it supports continuous feedback throughout the
 Instead of waiting until the end of a project to identify problems, teams can use automated testing and continuous integration to detect issues earlier.
 
 I believe this approach helps developers improve software quality while making the development process more efficient.
+
+How CI/CD Supports the SDLC
+
+Continuous Integration allows developers to combine their changes regularly and check whether the project still works correctly.
+
+Continuous Delivery helps prepare software for release through automated processes, while Continuous Deployment can automatically release changes that pass the required checks.
+
+I think using CI/CD throughout the SDLC helps teams identify problems earlier and makes software releases more consistent.
